@@ -1,3 +1,5 @@
+[![Java CI with Gradle](https://github.com/ivan3035789/RestAssuredJavaCore/actions/workflows/gradle.yml/badge.svg)](https://github.com/ivan3035789/RestAssuredJavaCore/actions/workflows/gradle.yml)
+
 ## _Задание 1 - Api Rest Assured_
 
 <span style="color: blue">Ссылка на API</span>- [https://reqres.in](https://reqres.in)
